@@ -1,8 +1,8 @@
-# react-quiz-component
+# react-quiz-component-3900
 :orange_book: React Quiz Component 
-[![NPM version](https://img.shields.io/npm/v/react-quiz-component.svg)](https://www.npmjs.com/package/react-quiz-component) [![License](https://img.shields.io/npm/l/react-quiz-component.svg)](https://github.com/wingkwong/react-quiz-component/blob/master/LICENSE) [![Total NPM Download](https://img.shields.io/npm/dt/react-quiz-component.svg)](https://www.npmjs.com/package/react-quiz-component)
+[![NPM version](https://img.shields.io/npm/v/react-quiz-component-3900.svg)](https://www.npmjs.com/package/react-quiz-component-3900) [![License](https://img.shields.io/npm/l/react-quiz-component-3900.svg)](https://github.com/wingkwong/react-quiz-component-3900/blob/master/LICENSE) [![Total NPM Download](https://img.shields.io/npm/dt/react-quiz-component-3900.svg)](https://www.npmjs.com/package/react-quiz-component-3900)
 
-react-quiz-component is a ReactJS component allowing users to attempt a quiz. 
+react-quiz-component-3900 is a ReactJS component allowing users to attempt a quiz. 
 
 ## Features
 - JSON-based input
@@ -24,12 +24,12 @@ react-quiz-component is a ReactJS component allowing users to attempt a quiz.
 
 ## Installing
 ```
-npm i react-quiz-component
+npm i react-quiz-component-3900
 ```
 
-## Importing react-quiz-component
+## Importing react-quiz-component-3900
 ```
-import Quiz from 'react-quiz-component';
+import Quiz from 'react-quiz-component-3900';
 ```
 
 ## Defining Your Quiz Source
@@ -256,7 +256,7 @@ Object
 - Make a PR to `develop` and describe the changes
 
 ## Demo
-The demo is available at https://wingkwong.github.io/react-quiz-component/
+The demo is available at https://wingkwong.github.io/react-quiz-component-3900/
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details

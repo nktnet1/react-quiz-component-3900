@@ -14,7 +14,7 @@
   "keywords": [
     "react",
     "reactjs",
-    "react-quiz-component",
+    "react-quiz-component-3900",
     "react-quiz",
     "quiz"
   ],
@@ -49,10 +49,10 @@
     "webpack-dev-server": "^4.7.4"
   },
   "author": "WONG, Wing Kam <wingkwong.code@gmail.com>",
-  "homepage": "https://github.com/wingkwong/react-quiz-component",
+  "homepage": "https://github.com/wingkwong/react-quiz-component-3900",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wingkwong/react-quiz-component.git"
+    "url": "https://github.com/wingkwong/react-quiz-component-3900.git"
   },
   "dependencies": {
     "@webpack-cli/serve": "^1.6.1",
